@@ -14,6 +14,7 @@ First pair programming problem for week one at Makers Academy.
 # Diagram
 
 Noun ----> Verb ----> Noun
+
 DockingStation ----> Release ----> Bike
 
 # Error Message
