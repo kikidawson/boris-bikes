@@ -2,10 +2,13 @@
 
 First pair programming problem for week one at Makers Academy.
 
-# Objects & Messages
+# | Nouns | Verbs |
 
-Nouns - Person, Bike, DockingStation
-Verbs - Use, Working, Release_bike
+| ----------- | ----------- |
+| Person | Use |
+| Bike | Working? |
+| DockingStation | Release_bike |
+| ----------- | ----------- |
 
 # Diagram
 
