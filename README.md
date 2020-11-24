@@ -2,13 +2,14 @@
 
 First pair programming problem for week one at Makers Academy.
 
-# | Nouns | Verbs |
+# Obects & Messages
 
-| ----------- | ----------- |
-| Person | Use |
-| Bike | Working? |
+| Nouns          | Verbs        |
+| -------------- | ------------ |
+| Person         | Use          |
+| Bike           | Working?     |
 | DockingStation | Release_bike |
-| ----------- | ----------- |
+| -----------    | -----------  |
 
 # Diagram
 
